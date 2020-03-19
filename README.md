@@ -1,2 +1,2 @@
-# Your-First-site
-A simple webapp using Flask,html and css.
+# Build your first website.
+A simple webapp using Python,Flask,html and css.
